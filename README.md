@@ -14,3 +14,7 @@ test is run app :
 run by nodemon config :
 ```npm run start```
 
+## Run test script :
+
+test : 
+```npm run test```
